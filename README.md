@@ -1,18 +1,19 @@
 ### 👋 Olá! Me chamo Pedro Henrique
 
-* 🎓 Sou estudante de **Engenharia de Software** apaixonado por Desenvolvimento, Dados e Automação.
-* 🌱 Atualmente, desenvolvo projetos práticos utilizando **Java e Spring Boot**, com foco em automação e integração com Inteligência Artificial.
-* 👀 Tenho muito interesse em explorar novas tecnologias e construir projetos paralelos, desde a criação de interfaces front-end integradas com IA até o desenvolvimento de dashboards e painéis de faturamento.
+*  Sou estudante de **Engenharia de Software** apaixonado por Desenvolvimento, Dados e Automação.
+*  Atualmente, desenvolvo projetos práticos utilizando **Java e Spring Boot**, com foco em automação e integração com Inteligência Artificial.
+*  Sempre buscando explorar novas tecnologias e construir projetos paralelos, desde a criação de interfaces front-end integradas com IA até o desenvolvimento de dashboards e painéis de faturamento.
 * 🧠 Meu principal objetivo é a resolução de problemas do mundo real por meio da tecnologia.
 
-* ### 💻 Tecnologias e Ferramentas
+* ### Tecnologias e Ferramentas
 
 * **Linguagens:** Java, Python, C#, R
 * **Frameworks & Tecnologias:** Spring Boot, .NET (ASP.NET Core), FastAPI, Pandas, Hibernate
 * **Banco de Dados:** SQL (MySQL, PostgreSQL, SQL Server)
 * **Dados e BI:** Power BI, Excel Avançado, Análise de Dados
 * **Outros:** Automação, Inteligência Artificial
-### 🎓 Educação
+  
+### Formação
 
 * **Graduação:** Engenharia de Software - Universade Salvador (Previsão de conclusão: 2028)
 
