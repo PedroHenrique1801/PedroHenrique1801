@@ -17,7 +17,7 @@ Sou estudante de **Engenharia de Software** apaixonado por Desenvolvimento, Dado
 
 **Dados e BI:** Power BI, Excel Avançado, Análise de Dados
 
-**Outros:** Automação, Inteligência Artificial
+**Outros:** Automação, Inteligência Artificial, Streamlit
 
 ### Formações
 
