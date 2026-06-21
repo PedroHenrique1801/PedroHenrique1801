@@ -17,12 +17,12 @@ Sou estudante de **Engenharia de Software** apaixonado por Desenvolvimento, Dado
 
 **Dados e BI:** Power BI, Excel Avançado, Análise de Dados
 
-**Outros:** Automação, Inteligência Artificial, Streamlit
+**Outros:** Automação, Inteligência Artificial, Azure, Streamlit
 
 ### Formações
 
 * Engenharia de Software — Universidade Salvador (UNIFACS) | Conclusão prevista: 2028
-* Bootcamp Santander Java + IA
+* Bootcamp Santander Java 
 * Cursos complementares em Power BI, Python, Dados e Lógica de Programação
 
 ---
