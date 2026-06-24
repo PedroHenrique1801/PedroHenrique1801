@@ -11,7 +11,7 @@ Sou estudante de **Engenharia de Software** apaixonado por Desenvolvimento, Dado
 
 **Linguagens:** Java, Python, SQL, R
 
-**Frameworks & Tecnologias:** Spring Boot, FastAPI, Pandas
+**Frameworks & Tecnologias:** Spring Boot, FastAPI, Pandas 
 
 **Banco de Dados:** MySQL, PostgreSQL, SQL Server
 
