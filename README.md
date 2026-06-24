@@ -1,6 +1,6 @@
 ### 👋 Olá! Me chamo Pedro Henrique
 
-Sou estudante de **Engenharia de Software** apaixonado por Desenvolvimento, Dados e Automação.  
+Sou estudante de **Engenharia de Software** apaixonado por Desenvolvimento, Dados e Automação.
 
 * Atualmente desenvolvo projetos práticos utilizando **Java e Spring Boot**, com foco em automação e integração com Inteligência Artificial.
 * Tenho interesse em desenvolvimento de software, análise de dados, bancos de dados e soluções baseadas em IA.
