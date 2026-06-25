@@ -23,7 +23,7 @@ Sou estudante de **Engenharia de Software** apaixonado por Desenvolvimento, Dado
 
 * Engenharia de Software — Universidade Salvador (UNIFACS) | Conclusão prevista: 2028
 * Bootcamp Santander Java 
-* Cursos complementares em Power BI, Python, Dados e Lógica de Programação
+* Cursos complementares em Python, Dados e Lógica de Programação e Power BI
 
 ---
 *💬 Sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/pedro-henrique-oliveira-dos-santos-743900302/)) ou por e-mail: pedrohsantos1801@gmail.com
