@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:5d8aa8&height=140&section=header&text=Ol%C3%A1!%20me%20chamo%20Pedro%20Henrique&fontSize=34&fontColor=ffffff&desc=Entusiasta%20em%20Tecnologia%20e%20Programa%C3%A7%C3%A3o&descAlignY=75&descSize=16" />
+<img src="./greeting.svg" />
 </p>
 Foco em Desenvolvimento, Dados e Automação.
 
