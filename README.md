@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/PedroHenrique1801/PedroHenrique1801@main/greeting.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/PedroHenrique1801/PedroHenrique1801@main/greeting.svg" />
 </p>
 
 Foco em Desenvolvimento, Dados e Automação.
