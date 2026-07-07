@@ -1,6 +1,7 @@
 <p align="center">
 <img src="./greeting.svg" />
 </p>
+
 Foco em Desenvolvimento, Dados e Automação.
 
 Desenvolvo projetos práticos com **Java e Spring Boot**, com foco em automação e integração com Inteligência Artificial. Também trabalho com análise de dados e dashboards, sempre aprendendo através da prática.
