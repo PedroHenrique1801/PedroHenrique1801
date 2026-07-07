@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=75&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ol%C3%A1!%20me%20chamo%20Pedro&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Entusiasta%20em%20Tecnologia%20e%20Programa%C3%A7%C3%A3o&descAlignY=75&descSize=18" />
 </p>
 
-Apaixonado por Desenvolvimento, Dados e Automação.
+Foco em Desenvolvimento, Dados e Automação.
 
 Desenvolvo projetos práticos com **Java e Spring Boot**, com foco em automação e integração com Inteligência Artificial. Também trabalho com análise de dados e dashboards — sempre aprendendo através da prática.
 
@@ -22,12 +22,8 @@ Veja minhas skills abaixo 👇
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PedroHenrique1801&show_icons=true&theme=dark&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique1801&layout=compact&theme=dark&hide_border=true" width="35%" />
-</p>
-
----
+### vamos conversar :D 
+<img src="https://img.shields.io/badge/English-1a1a1a?style=flat-square" /> <img src="https://img.shields.io/badge/Portuguese-1a1a1a?style=flat-square" />
 
 <p align="center">
 <a href="mailto:pedrohsantos1801@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
