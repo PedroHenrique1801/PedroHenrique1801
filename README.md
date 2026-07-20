@@ -2,7 +2,7 @@
 <img src="https://cdn.jsdelivr.net/gh/PedroHenrique1801/PedroHenrique1801@main/greeting.svg" />
 </p>
 
-Entusiasta em tecnologia e informação com foco em Desenvolvimento, Dados e Automação.     
+Entusiasta em tecnologia e informação com foco em Desenvolvimento, Dados e Automação.    
 
 Desenvolvo projetos práticos com **Java e Spring Boot**, com foco em automação e integração com Inteligência Artificial. Também trabalho com análise de dados e dashboards, sempre aprendendo através da prática.
 
